@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "//github.com/tzechong94/robotfriends/static/css/main.624b5192.css",
-    "main.js": "//github.com/tzechong94/robotfriends/static/js/main.7a257343.js",
-    "static/js/787.e5c92c45.chunk.js": "//github.com/tzechong94/robotfriends/static/js/787.e5c92c45.chunk.js",
-    "static/media/SEGA.woff": "//github.com/tzechong94/robotfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
-    "index.html": "//github.com/tzechong94/robotfriends/index.html",
-    "main.624b5192.css.map": "//github.com/tzechong94/robotfriends/static/css/main.624b5192.css.map",
-    "main.7a257343.js.map": "//github.com/tzechong94/robotfriends/static/js/main.7a257343.js.map",
-    "787.e5c92c45.chunk.js.map": "//github.com/tzechong94/robotfriends/static/js/787.e5c92c45.chunk.js.map"
+    "main.css": "/tzechong94/robotfriends/static/css/main.034aa47d.css",
+    "main.js": "/tzechong94/robotfriends/static/js/main.98bf308b.js",
+    "static/js/787.e5c92c45.chunk.js": "/tzechong94/robotfriends/static/js/787.e5c92c45.chunk.js",
+    "static/media/SEGA.woff": "/tzechong94/robotfriends/static/media/SEGA.47b4bfa94ef243af4a5b.woff",
+    "index.html": "/tzechong94/robotfriends/index.html",
+    "main.034aa47d.css.map": "/tzechong94/robotfriends/static/css/main.034aa47d.css.map",
+    "main.98bf308b.js.map": "/tzechong94/robotfriends/static/js/main.98bf308b.js.map",
+    "787.e5c92c45.chunk.js.map": "/tzechong94/robotfriends/static/js/787.e5c92c45.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.624b5192.css",
-    "static/js/main.7a257343.js"
+    "static/css/main.034aa47d.css",
+    "static/js/main.98bf308b.js"
   ]
 }
